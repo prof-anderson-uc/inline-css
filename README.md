@@ -4,7 +4,7 @@ In this activity you'll practice applying inline CSS styles using the `style` at
 
 ---
 
-## 📋 Exercise Objective
+## Exercise Objective
 
 By the end of this exercise, students will be able to:
 
@@ -15,13 +15,13 @@ By the end of this exercise, students will be able to:
 
 ---
 
-## 💡 What Is Inline CSS?
+## What Is Inline CSS?
 
 Inline CSS refers to styles added **directly inside an HTML tag** using the `style` **attribute**.
 
 
 >
-> 🧠 **What is an Attribute?**  
+> **What is an Attribute?**  
 > In HTML, an **attribute** provides additional information about an element.  
 > Attributes are written inside the opening tag and follow this format:  
 > 
@@ -34,7 +34,7 @@ Inline CSS refers to styles added **directly inside an HTML tag** using the `sty
 
 
 
-### Example Inline CSS
+## Example Inline CSS
 ```html
 <h2 style="color: purple;">This text is purple.</h2>
 ```
