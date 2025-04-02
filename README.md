@@ -89,7 +89,7 @@ Apollo is a British Shorthair cat from the Loretta British Cattery in Chicago. H
 
 - Famous for his giant cheeks, stroller rides, and love of shrimp.
 
-- The grandfather of my cat Vladimir!
+- The grandfather of Professor Anderson's cat Vladimir!
 
 You can follow Apollo on Instagram here:
 [@lorettabritishcat](https://www.instagram.com/lorettabritishcat/)
